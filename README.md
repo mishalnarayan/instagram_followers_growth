@@ -1,12 +1,12 @@
 # instagram_followers_growth
 Sneaky python scripts incrementing you instagram follower daily
 
-<b>Well the idea behind this is simple. On an average 10-15%(can be increased to 30% with targeted audience) of people follows you back if you follow them.But when you unfollow them, they don't actually unfollow you too.<b><br>
+<b>Well the idea behind this is simple. On an average 10-15%(can be increased to 30% with targeted audience) of people follows you back if you follow them.But when you unfollow them, they don't actually unfollow you too.</b><br>
 
 <br>
 So, lets assume a scenario.what if I own a bridal makup instagram page and want to increase my followers, how would i achieve that?<br>
 <br>
-<b>I can steal my active competitors followers;they will be highly targeted customers.<b><br>
+<b>I can steal my active competitors followers;they will be highly targeted customers.</b><br>
 <br>
 This script starts with crawling your competitors recent instagram posts and grabs their frequent commentors and post likers.Then follows them, and after a week even if they follow you back or not it will automatically unfollow them.<br>
 
